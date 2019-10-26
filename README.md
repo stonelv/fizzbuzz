@@ -1,6 +1,6 @@
 # fizzbuzz
 
-This a example project to practice tdd 
+*This a example project to practice tdd* 
 
 ##根据需求，拆分后的测试步骤为：
 1. 验证常规数字（不是3或5的倍数，也不是3和5的倍数）的返回是否是原数字；
